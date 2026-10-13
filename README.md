@@ -2,98 +2,132 @@
 
 ### B.Tech ECE Student | Aspiring Cloud & Infrastructure Engineer
 
-I'm an Electronics and Communication Engineering student building practical skills in cloud computing, systems engineering, infrastructure automation, and security.
+I'm an Electronics and Communication Engineering student passionate about cloud computing, Linux systems, infrastructure automation, cloud security, and reliability engineering.
 
-I'm following a structured **800-day engineering roadmap** designed to develop strong fundamentals, practical project experience, and the ability to understand, build, secure, and troubleshoot infrastructure.
+I'm building my engineering foundation through hands-on practice, practical projects, systematic troubleshooting, and technical documentation.
 
-My philosophy is simple: **learn the fundamentals, build hands-on, investigate failures, and document what I learn.**
+My goal is to understand how infrastructure works, automate repetitive tasks, strengthen system security, and build reliable, scalable systems.
 
-## 🎯 My Engineering Direction
+## 🎯 My Engineering Focus
 
 ☁️ **Cloud Engineering — Primary Focus**
 
-Google Cloud is my primary learning platform. I'm building toward proficiency in Linux, networking, Python, Bash, cloud infrastructure, Docker, Kubernetes, Terraform, and CI/CD.
+Google Cloud (GCP) is my primary cloud platform. I'm developing practical skills in Linux, networking, Python, Bash, cloud infrastructure, Docker, Kubernetes, Terraform, and CI/CD.
 
 🔐 **Cloud Security Engineering**
 
-I'm developing a foundation in Linux security, identity and access management (IAM), TLS, least privilege, security automation, and Kubernetes security.
+I'm exploring Linux security, Identity and Access Management (IAM), TLS, least privilege, security automation, container security, and cloud security architecture.
 
 ⚙️ **System Reliability Engineering (SRE)**
 
-My long-term direction includes Linux internals, systems programming, observability, performance analysis, troubleshooting, distributed systems, and reliability engineering.
+I'm building a foundation in Linux internals, operating systems, systems programming, observability, performance analysis, troubleshooting, and distributed systems.
 
 🌐 **Multi-Cloud Engineering**
 
-AWS and Microsoft Azure are complementary learning tracks. My goal is to understand transferable infrastructure concepts while gaining hands-on experience with each platform.
+I'm expanding my understanding of AWS and Microsoft Azure alongside GCP, focusing on transferable cloud concepts and hands-on infrastructure practice.
 
 🧠 **AI Infrastructure**
 
-AI mathematics, machine learning, model serving, MLOps, and AI infrastructure will progressively complement my cloud and systems foundations.
+I'm progressively exploring AI fundamentals, mathematics for machine learning, model deployment, MLOps, AI infrastructure, and reliable AI systems.
 
-## 📍 Current Focus — Phase 1
+## 📍 Current Learning Priorities
 
-**Days 1–100: Systems Foundation + AI Mathematics**
+I'm currently strengthening my core engineering fundamentals:
 
-My current priorities are:
+- Linux command-line skills and shell fundamentals
+- Git, GitHub, and version control workflows
+- Python programming and infrastructure automation
+- Networking fundamentals and troubleshooting
+- Linux permissions, capabilities, and security
+- Cloud platform fundamentals
+- Containers and infrastructure configuration
+- Technical writing and reproducible lab documentation
 
-- Linux command line, shell fundamentals, and system administration
-- Git, GitHub, and professional technical documentation
-- Python fundamentals and infrastructure scripting
-- Networking and troubleshooting fundamentals
-- Linux permissions, capabilities, and security fundamentals
-- Initial cloud and container labs
-- AI mathematics foundations as scheduled in my roadmap
+I distinguish between technologies I'm currently learning and those I've implemented in practical projects.
 
-These are learning priorities, not a claim that I have mastered every technology listed.
+## 🏗️ My Engineering Portfolio
 
-## 🧪 My Hands-On Learning Portfolio
+**[Infrastructure Engineering Skill Foundry — `my_journey`](https://github.com/Hemanth4596/my_journey)**
 
-My primary learning repository is:
+My primary repository for documenting hands-on learning and engineering experiments.
 
-🏗️ **[Infrastructure Engineering Skill Foundry — my_journey](https://github.com/Hemanth4596/my_journey)**
+Explore my learning tracks:
 
-It organizes my learning across four areas:
+- ☁️ [Cloud Engineering](https://github.com/Hemanth4596/my_journey/tree/main/cloud-engineering)
+- 🔐 [Security Engineering](https://github.com/Hemanth4596/my_journey/tree/main/security-engineering)
+- ⚙️ [Site Reliability Engineering](https://github.com/Hemanth4596/my_journey/tree/main/sre)
+- 🐍 [Python Learning](https://github.com/Hemanth4596/my_journey/tree/main/python-journey)
 
-- [Cloud Engineering](https://github.com/Hemanth4596/my_journey/tree/main/cloud-engineering)
-- [Security Engineering](https://github.com/Hemanth4596/my_journey/tree/main/security-engineering)
-- [Site Reliability Engineering](https://github.com/Hemanth4596/my_journey/tree/main/sre)
-- [Python Learning](https://github.com/Hemanth4596/my_journey/tree/main/python-journey)
+My documentation aims to capture the objective, environment, commands, code, observed results, errors, fixes, and technical takeaways from each substantial lab.
 
-I aim to document each substantial lab with its objective, commands or code, observed results, mistakes, troubleshooting steps, and lessons learned.
+## 🧪 Projects I'm Working Toward
 
-## 🛠️ Projects on My Roadmap
+As my skills develop, I plan to build and document:
 
-As my skills progress, I plan to develop and document projects such as:
+**System Metrics Collector**
+- Collect CPU, memory, disk, and network metrics using Python.
+- Produce structured output and improve monitoring capabilities.
+- Progress toward containerized execution and cloud integration.
 
-- **System Metrics Collector:** Python-based system health and resource monitoring.
-- **Cloud Security Audit Tool:** Automated checks for selected cloud security and IAM risks.
-- **Infrastructure as Code Labs:** Reproducible cloud infrastructure using Terraform.
-- **Kubernetes Security Labs:** Workload hardening, security contexts, and network policies.
-- **Observability and Incident Labs:** Metrics, troubleshooting, root-cause analysis, and reliability practices.
+**Cloud Security Audit Tool**
+- Inspect selected cloud IAM and configuration risks.
+- Generate structured reports with actionable remediation guidance.
+- Expand toward multi-cloud security checks.
 
-These are planned milestones. I'll update this section as implementations become functional and results can be demonstrated.
+**Infrastructure as Code**
+- Define reproducible infrastructure using Terraform.
+- Practice networking, identity, configuration, and deployment workflows.
+- Introduce automated validation and CI/CD.
 
-## 📚 How I Learn
+**Kubernetes Security and Reliability Labs**
+- Explore secure workload configurations and network policies.
+- Practice monitoring, troubleshooting, and incident analysis.
+- Document architectural decisions and failure scenarios.
 
-- Build practical labs instead of only collecting notes.
-- Understand the underlying systems before automating them.
-- Debug systematically and document solutions.
+These are planned engineering milestones; I'll update them as working implementations and verifiable results become available.
+
+## 🛠️ Technologies I'm Exploring
+
+**Operating Systems:** Linux, Ubuntu  
+**Programming:** Python, Bash, C, and Go  
+**Cloud:** Google Cloud Platform, AWS, Microsoft Azure  
+**Containers:** Docker, Kubernetes  
+**Infrastructure:** Terraform, Git, GitHub Actions  
+**Security:** Linux permissions, IAM, TLS, least privilege  
+**Reliability:** Linux internals, monitoring, observability, troubleshooting  
+**AI Infrastructure:** Machine learning fundamentals, model serving, MLOps
+
+My familiarity with each technology will grow through practical implementation and continued study.
+
+## 📐 My Engineering Principles
+
+- **Understand before automating.**
+- Build practical solutions instead of collecting tools without context.
+- Troubleshoot systematically and learn from failures.
 - Apply least privilege and protect credentials.
-- Keep planned work separate from completed work.
-- Improve through consistent practice and technical feedback.
+- Prefer reproducible experiments and clear documentation.
+- Separate planned work from completed implementations.
+- Improve through consistency, feedback, and continuous learning.
 
 ## 🤝 Open to Learning and Collaboration
 
-I'm interested in student technology events, cloud workshops, hackathons, technical communities, open-source collaboration, and opportunities to learn from engineers and other builders.
+I'm interested in:
 
-I enjoy exploring how cloud platforms, operating systems, networking, security, and automation fit together to create reliable infrastructure.
+- Cloud computing events and technical workshops
+- Student developer programs and technology communities
+- Hackathons and engineering challenges
+- Open-source contributions
+- Cloud infrastructure and security projects
+- Learning from engineers and collaborating with fellow builders
+
+I enjoy exploring the connections between electronics, operating systems, networking, cloud platforms, security, and automation.
 
 ## 🔗 Connect With Me
 
 - **GitHub:** [Hemanth4596](https://github.com/Hemanth4596)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/paladugula-hemanth-sri-sai-b5b28b31b/)
-- **Technical writing:** [Hashnode](https://hemanthlabs.hashnode.dev/)
+- **Technical Writing:** [Hashnode](https://hemanthlabs.hashnode.dev/)
 
 ---
 
-*Build. Automate. Secure. Understand. Repeat.*
+> **Build. Automate. Secure. Understand. Repeat.** 🚀
